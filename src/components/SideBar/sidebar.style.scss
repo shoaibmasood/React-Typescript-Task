@@ -1,0 +1,41 @@
+.container {
+  height: 100vh;
+  width: 15%;
+  display: flex;
+  flex-direction: column;
+  background-color: #2a2a2a;
+}
+
+.sidebar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.sidebar__icon {
+  display: inline;
+  width: 50px;
+}
+
+.sidebar__text {
+    margin-right: 1rem;
+    font-size: 18px;
+    color: #ffff;
+}
+.hidesidebar_text {
+    display: none;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10rem;
+  color: #ffff;
+}
+
+.sidebar__clicked {
+  width: 4%;
+}
+.hidesidebar {
+  display: none;
+}
