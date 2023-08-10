@@ -9,6 +9,7 @@ The example colours are just for reference and styling should be adjusted for a 
 
 ![](example.gif)
 
+
 ### Constraints
 
 - Solution should be production quaility, documented, and reusable.
@@ -27,3 +28,6 @@ The example colours are just for reference and styling should be adjusted for a 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.\
 The page will reload if you make edits.
+
+### Final View
+![](CompletedTask.JPG)
